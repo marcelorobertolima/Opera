@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00"
+    xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe
+        xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe41231029751319000130550010000008001034348740">
+            <ide>
+                <cUF>41</cUF>
+                <cNF>03434874</cNF>
+                <natOp>VENDA DE MERCADORIA</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>800</nNF>
+                <dhEmi>2023-10-03T14:00:52-03:00</dhEmi>
+                <dhSaiEnt>2023-10-03T14:00:52-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>4104808</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>1</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>1.23.0.0</verProc>
+            </ide>
+            <emit>
+                <CNPJ>29751319000130</CNPJ>
+                <xNome>L H COSTA DOMINGUES - EIRELI - ME</xNome>
+                <xFant>L H COSTA DOMINGUES</xFant>
+                <enderEmit>
+                    <xLgr>AV ASSUNCAO 532</xLgr>
+                    <nro>.</nro>
+                    <xBairro>CENTRO</xBairro>
+                    <cMun>4104808</cMun>
+                    <xMun>CASCAVEL</xMun>
+                    <UF>PR</UF>
+                    <CEP>85805030</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>45998434600</fone>
+                </enderEmit>
+                <IE>9077339474</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>37799315000150</CNPJ>
+                <xNome>KAYABA TRANSPORTES E LOGISTICA LTDA</xNome>
+                <enderDest>
+                    <xLgr>RUA CLARA NUNES</xLgr>
+                    <nro>1421</nro>
+                    <xCpl>ANEXO B</xCpl>
+                    <xBairro>BRASILIA</xBairro>
+                    <cMun>4104808</cMun>
+                    <xMun>CASCAVEL</xMun>
+                    <UF>PR</UF>
+                    <CEP>85815270</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>4399295513</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>9085443663</IE>
+                <email>marceloroberto.lima@gmail.com</email>
+            </dest>
+            <autXML>
+                <CNPJ>00724074000170</CNPJ>
+            </autXML>
+            <autXML>
+                <CPF>76139514991</CPF>
+            </autXML>
+            <det nItem="1">
+                <prod>
+                    <cProd>73</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>MARGARINA COAMO 80% DE GORDURA COM SAL BALDE 14,5</xProd>
+                    <NCM>15171000</NCM>
+                    <CEST>1702701</CEST>
+                    <CFOP>5102</CFOP>
+                    <uCom>B14,5</uCom>
+                    <qCom>250.0000</qCom>
+                    <vUnCom>101.7500000000</vUnCom>
+                    <vProd>25437.50</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>B14,5</uTrib>
+                    <qTrib>250.0000</qTrib>
+                    <vUnTrib>101.7500000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>25437.50</vBC>
+                            <pICMS>12.0000</pICMS>
+                            <vICMS>3052.50</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>301</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>07</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>07</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>29</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>CAFE DUALIS EX FOR T/M VC CX10X500G</xProd>
+                    <NCM>09012100</NCM>
+                    <CEST>1709600</CEST>
+                    <CFOP>5102</CFOP>
+                    <uCom>C5KG</uCom>
+                    <qCom>150.0000</qCom>
+                    <vUnCom>92.1500000000</vUnCom>
+                    <vProd>13822.50</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>C5KG</uTrib>
+                    <qTrib>150.0000</qTrib>
+                    <vUnTrib>92.1500000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>13822.50</vBC>
+                            <pICMS>12.0000</pICMS>
+                            <vICMS>1658.70</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>301</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>07</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>07</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="3">
+                <prod>
+                    <cProd>23</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>OLEO DE SOJA COAMO PET CX20X900ML</xProd>
+                    <NCM>15079011</NCM>
+                    <CEST>1706500</CEST>
+                    <CFOP>5102</CFOP>
+                    <uCom>CXPET</uCom>
+                    <qCom>250.0000</qCom>
+                    <vUnCom>89.5000000000</vUnCom>
+                    <vProd>22375.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>CXPET</uTrib>
+                    <qTrib>250.0000</qTrib>
+                    <vUnTrib>89.5000000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>5</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>22375.00</vBC>
+                            <pICMS>12.0000</pICMS>
+                            <vICMS>2685.00</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>301</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>07</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>07</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="4">
+                <prod>
+                    <cProd>21</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>FAR.TRIGO ANNIELA IND T2 SC 25 KG</xProd>
+                    <NCM>11010010</NCM>
+                    <CEST>1704406</CEST>
+                    <CFOP>5102</CFOP>
+                    <uCom>SC25</uCom>
+                    <qCom>150.0000</qCom>
+                    <vUnCom>44.3500000000</vUnCom>
+                    <vProd>6652.50</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>SC25</uTrib>
+                    <qTrib>150.0000</qTrib>
+                    <vUnTrib>44.3500000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>5</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>6652.50</vBC>
+                            <pICMS>12.0000</pICMS>
+                            <vICMS>798.30</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>301</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>07</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>07</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="5">
+                <prod>
+                    <cProd>31</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>FAR.TRIGO COAMO PAN T1 SC 25KG</xProd>
+                    <NCM>11010010</NCM>
+                    <CEST>1704403</CEST>
+                    <CFOP>5102</CFOP>
+                    <uCom>SC25</uCom>
+                    <qCom>150.0000</qCom>
+                    <vUnCom>53.7500000000</vUnCom>
+                    <vProd>8062.50</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>SC25</uTrib>
+                    <qTrib>150.0000</qTrib>
+                    <vUnTrib>53.7500000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>5</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>8062.50</vBC>
+                            <pICMS>12.0000</pICMS>
+                            <vICMS>967.50</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>301</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>07</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>07</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>1000.00</vBC>
+                    <vICMS>9162.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>1000.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>1000.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>9</modFrete>
+                <vol>
+                    <qVol>950</qVol>
+                    <esp>ITENS DIVER COAMO</esp>
+                    <marca>COAMO</marca>
+                    <nVol>0</nVol>
+                    <pesoL>16750.000</pesoL>
+                    <pesoB>17150.000</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>800</nFat>
+                    <vOrig>1000.00</vOrig>
+                    <vDesc>0.00</vDesc>
+                    <vLiq>1000.00</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2023-12-10</dVenc>
+                    <vDup>250.00</vDup>
+                </dup>
+                <dup>
+                    <nDup>002</nDup>
+                    <dVenc>2023-12-16</dVenc>
+                    <vDup>250.0</vDup>
+                </dup>
+                <dup>
+                    <nDup>003</nDup>
+                    <dVenc>2023-12-25</dVenc>
+                    <vDup>250.00</vDup>
+                </dup>
+                <dup>
+                    <nDup>004</nDup>
+                    <dVenc>2023-12-30</dVenc>
+                    <vDup>250.00</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <indPag>1</indPag>
+                    <tPag>99</tPag>
+                    <xPag>Outros</xPag>
+                    <vPag>1000.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>( COMPLEMENTO ENDERECO: ANEXO B )</infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>03600477000104</CNPJ>
+                <xContato>PAULO SERGIO FERRARI DA ROSA</xContato>
+                <email>arpa@arpainformatica.com.br</email>
+                <fone>4934410500</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature
+            xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe41231029751319000130550010000008001034348740">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>Ur4BNESiHUEwcLBBz7NY1R1WfrM=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>fC2HwEZ3VpW0IHDDOTvLZ98JiUPwgEXfsxmJX60ApPZTGCjkUOcHjEp0iDV23na+ArahkJx+T4kYRXU7r0/Xa0fKRJ3O0yM9i61IwASM1H0dopYE4m8Ad3UlXryewZUGRy1CWG6k0MOXm0GdvRZIpQBVGAZrVm/C8teGYhhShoMVx1N3hR7KgxH5H73kS46goE8GE8/T+/s1XgfJ/lAN2UYcbSkZoWbQlWo4LWqjsr1mfsgeEd8CZK0JLEfbr0SHvgHs1XG3TyKz1SfNjaPr0gmSr+LqsuKixIDXHO/hzC4my/g93Pb+Hp6jTOTKt92A8+d6LQfI3hgzdZ7BbXCknw==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt Id="ID141230260625649">
+            <tpAmb>1</tpAmb>
+            <verAplic>PR-v4_8_23</verAplic>
+            <chNFe>41231029751319000130550010000008001034348740</chNFe>
+            <dhRecbto>2023-10-03T14:12:31-03:00</dhRecbto>
+            <nProt>141230260625649</nProt>
+            <digVal>Ur4BNESiHUEwcLBBz7NY1R1WfrM=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
